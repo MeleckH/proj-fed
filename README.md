@@ -1,3 +1,4 @@
+
 HEADER-FOOTER.HTML hia page fergha men sitna can be used for a new page
 
 
@@ -6,10 +7,12 @@ HEADER-FOOTER.HTML hia page fergha men sitna can be used for a new page
 hajet li nra lezemhom yetaamlou: 
 
 config search ( js )
-config join us button ( log in page not yet made )
+config join us button ( sign up page not yet made )
 fix icons fel footer ( centerhom)
 description : bestsellers + categories 
 config panier ( panier sur livre : https://codepen.io/aaroniker/pen/pogGgbx // panier en general )
-logo site + icon /!\
+logo site /!\
 sign up page (config js )
-dropdown categories fel navbar
+config subscribe button ( js )
+config payement
+config useful links footer
