@@ -9,7 +9,7 @@ config search ( js )
 config join us button ( log in page not yet made )
 fix icons fel footer ( centerhom)
 description : bestsellers + categories 
-config panier ( panier sur livre : 
-https://codepen.io/aaroniker/pen/pogGgbx // panier en general )
+config panier ( panier sur livre : https://codepen.io/aaroniker/pen/pogGgbx // panier en general )
 logo site + icon /!\
-sign up page ( change colors and config js )
+sign up page (config js )
+dropdown categories fel navbar
