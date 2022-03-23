@@ -1,7 +1,7 @@
 
   body {
     position: relative;
-    background-image: url(images/x-min.jpg);
+    background-image: url(images/li.jpg);
   }
 
   .sepa {
@@ -15,7 +15,7 @@
     
   }
   .nav-item>a{
-    font-size: 20px !important;
+    font-size: 18px !important;
   }
   .login-box {
     position: absolute;
