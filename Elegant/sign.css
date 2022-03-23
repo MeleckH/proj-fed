@@ -1,13 +1,22 @@
-html {
-    height: 100%;
-  }
+
   body {
-    margin:0;
-    padding:0;
-    font-family: sans-serif;
-    background: linear-gradient(#e78c53e7, #cf3f25);
+    position: relative;
+    background-image: url(images/x-min.jpg);
   }
-  
+
+  .sepa {
+    height: 700px;
+  }
+  .or {
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    padding: 0 20px;
+    
+  }
+  .nav-item>a{
+    font-size: 20px !important;
+  }
   .login-box {
     position: absolute;
     top: 50%;
@@ -77,13 +86,13 @@ html {
   }
   
   .login-box a:hover {
-    background: #db392e;
+    background: #b9234d;
     color: #fff;
     border-radius: 5px;
-    box-shadow: 0 0 5px #db392e,
-                0 0 25px #db392e,
-                0 0 50px #db392e,
-                0 0 100px #db392e;
+    box-shadow: 0 0 5px #b9234d,
+                0 0 25px #b9234d,
+                0 0 50px #b9234d,
+                0 0 100px #b9234d;
   }
   
   .login-box a span {
